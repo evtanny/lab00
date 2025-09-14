@@ -1,0 +1,5 @@
+﻿  Source5.c
+C:\Users\user\Documents\1 1 основы програм и алгор\практ 1\lab5dz\Source5.c(9,10): warning C4129: " ": нераспознанная escape-последовательность символов
+C:\Users\user\Documents\1 1 основы програм и алгор\практ 1\lab5dz\Source5.c(11,10): warning C4129: "_": нераспознанная escape-последовательность символов
+C:\Users\user\Documents\1 1 основы програм и алгор\практ 1\lab5dz\Source5.c(12,10): warning C4129: " ": нераспознанная escape-последовательность символов
+  lab5dz.vcxproj -> C:\Users\user\Documents\1 1 основы програм и алгор\практ 1\lab5dz\x64\Debug\lab5dz.exe
